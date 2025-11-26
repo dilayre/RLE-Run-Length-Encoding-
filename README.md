@@ -1,4 +1,4 @@
-<h1> # Run-Length Encoding (RLE) Program </h1>
+<h1> Run-Length Encoding (RLE) Program </h1>
 
 This is a simple Python project that uses the Run-Length Encoding method.
 RLE is a basic way to make text shorter. It counts how many times the same character repeats and writes the character with the number.
@@ -9,7 +9,7 @@ Example:
 AAABBCC → A3B2C2
 ```
 
-<h2> ## What this program does </h2>
+<h2> What this program does </h2>
 
 * It looks at all `.txt` files in the same folder.
 * It shows these files in a small menu.
@@ -21,7 +21,7 @@ AAABBCC → A3B2C2
   originalname_compressed.txt
   ```
 
-<h2> ## How it works (simple steps) </h2>
+<h2> How it works (simple steps) </h2>
 
 1. The program finds all `.txt` files.
 2. It prints a list for the user.
@@ -31,7 +31,7 @@ AAABBCC → A3B2C2
 6. The compressed text is saved to a new file.
 7. A message shows that the compression is done.
 
-<h2> ## How to run </h2>
+<h2> How to run </h2>
 
 Put your `.txt` files in the same folder and run:
 
